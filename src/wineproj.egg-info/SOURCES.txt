@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/wineproj.egg-info/PKG-INFO
+src/wineproj.egg-info/SOURCES.txt
+src/wineproj.egg-info/dependency_links.txt
+src/wineproj.egg-info/top_level.txt
